@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pong_davisn18</string>
+
+    <string-array name="levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+</resources>
